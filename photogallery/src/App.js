@@ -7,30 +7,35 @@ import {
   CarouselCaption
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Imagen1 from '../src/img/IMG_3792.JPG';
+import Imagen2 from '../src/img/IMG_3807.JPG';
+import Imagen3 from '../src/img/IMG_3812.JPG';
+import Imagen4 from '../src/img/IMG_5364.jpeg';
+import Imagen5 from '../src/img/IMG_5422.JPG';
 
 const items = [
   {
-    src: require('./img/IMG_3792.JPG'),
+    src: Imagen1,
     altText: 'Imagen 1',
     caption: 'Highlands'
   },
   {
-    src: require('./img/IMG_3807.JPG'),
+    src: Imagen2,
     altText: 'Imagen 2',
     caption: 'Highlands'
   },
   {
-    src: require('./img/IMG_3812.JPG'),
+    src: Imagen3,
     altText: 'Imagen 3',
     caption: 'Highlands'
   },
   {
-    src: require('./img/IMG_5364.JPG'),
+    src: Imagen4,
     altText: 'Imagen 4',
     caption: 'Highlands'
   },
   {
-    src: require('./img/IMG_5422.JPG'),
+    src: Imagen5,
     altText: 'Imagen 5',
     caption: 'Highlands'
   }
