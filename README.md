@@ -22,7 +22,9 @@ Carrusel básico de imágenes creado con React JS utilizando la librería [react
 + reactstrap
 
 ## Contribución
-Las Pull requests son bienvenidas. Para los cambios importantes, por favor, abra una solucitud en primer lugar para discutir lo que le gustaría cambiar.
+Las Pull requests son bienvenidas. Para los cambios importantes, por favor, abre una solicitud en primer lugar para discutir lo que te gustaría cambiar.
+
+
 
 
 
